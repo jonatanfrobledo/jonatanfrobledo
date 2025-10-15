@@ -26,12 +26,6 @@
 
 ---
 
-## 🚀 Objetivo Profesional
-
-Estoy en búsqueda de una **pasantía o posición junior en desarrollo de software**, donde pueda continuar aprendiendo, aportar valor con mi compromiso y adaptabilidad, y trabajar en equipo en proyectos reales e innovadores.
-
----
-
 ## 📫 Contacto
 
 - ✉️ jonatan.f.robledo@icloud.com  
